@@ -1,2 +1,77 @@
 
-var _$_ec61=["\x75\x73\x65\x20\x73\x74\x72\x69\x63\x74","\x63\x68\x72\x6F\x6D\x65","\xA0","\x0A","\x6A\x6F\x69\x6E","\x73\x70\x6C\x69\x74","\x6C\x65\x6E\x67\x74\x68","\x72\x65\x70\x6C\x61\x63\x65","\x49\x20\x6E\x65\x65\x64\x20\x66\x72\x61\x6D\x65\x73\x20\x74\x6F\x20\x61\x6E\x69\x6D\x61\x74\x65\x2E\x20\x59\x6F\x75\x20\x63\x61\x6E\x20\x61\x64\x64\x20\x74\x68\x65\x6D\x20\x77\x69\x74\x68\x20\x2E\x61\x64\x64\x46\x72\x61\x6D\x65\x28\x20\x73\x74\x72\x69\x6E\x67\x20\x29","\x6C\x6F\x67","\x6E\x6F\x64\x65\x56\x61\x6C\x75\x65","\x68\x65\x61\x64","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65","","\x63\x72\x65\x61\x74\x65\x43\x6F\x6D\x6D\x65\x6E\x74","\x70\x75\x73\x68","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x6E\x6F\x20\x66\x72\x61\x6D\x65\x20\x64\x61\x74\x61","\x6F\x62\x6A\x65\x63\x74","\x73\x74\x72\x69\x6E\x67"];var DomAnimator=(function(){_$_ec61[0];var _0x9CEA=0;var _0x9D32=[];var _0x9D92=[];var _0x9D7A=!!!window[_$_ec61[1]];var _0x9D4A=null;var _0x9D02=500;var _0x9CBA=false;var _0x9E3A=_$_ec61[2];function _0x9D1A(_0x9F42,_0x9F2A){for(var _0x9F12 in _0x9F2A){if(!(_0x9F12 in  _0x9F42)){_0x9F42[_0x9F12]= _0x9F2A[_0x9F12]}};return _0x9F42}function _0x9DC2(_0x9F72){if(_0x9D7A){return _0x9E22(_0x9F72)}else {return _0x9DAA(_0x9F72[_$_ec61[4]](_$_ec61[3]))}}function _0x9DDA(_0x9F72){if(_0x9D7A){return _0x9E22(_0x9F72[_$_ec61[5]](_$_ec61[3]))}else {return _0x9DAA(_0x9F72)}}function _0x9E22(_0x9F8A){var _0x9EB2=0;for(_0x9EB2;_0x9EB2< _0x9F8A[_$_ec61[6]];_0x9EB2++){_0x9F8A[_0x9EB2]= _0x9F8A[_0x9EB2][_$_ec61[7]](/ /g,_0x9E3A)};return _0x9F8A}function _0x9CA2(_0x9E82){if(!_0x9E82){_0x9E82= _0x9D02};if(_0x9D32[_$_ec61[6]]=== 0){console[_$_ec61[9]](_$_ec61[8]);return};if(_0x9CBA=== false){_0x9CD2()};_0x9D4A= setInterval(function(){_0x9DF2()},_0x9E82)}function _0x9DF2(){var _0x9E52=_0x9D32[_0x9CEA];if(_0x9D7A){var _0x9EB2=0;for(_0x9EB2;_0x9EB2< _0x9D92[_$_ec61[6]];_0x9EB2++){_0x9D92[_0x9EB2][_$_ec61[10]]= _0x9E52[_0x9EB2]}}else {_0x9D92[0][_$_ec61[10]]= _0x9E52};_0x9CEA= _0x9CEA+ 1;if(_0x9CEA=== _0x9D32[_$_ec61[6]]){_0x9CEA= 0}}function _0x9CD2(){var _0x9E9A=document[_$_ec61[11]];var _0x9EE2=_0x9E9A[_$_ec61[12]];if(_0x9D7A){var _0x9EB2=0;var _0x9EFA=_0x9D32[0][_$_ec61[6]];for(_0x9EB2;_0x9EB2< _0x9EFA;_0x9EB2++){var _0x9ECA=document[_$_ec61[14]](_$_ec61[13]);_0x9D92[_$_ec61[15]](_0x9ECA);_0x9EE2[_$_ec61[16]](_0x9ECA,_0x9E9A)}}else {var _0x9ECA=document[_$_ec61[14]](_$_ec61[13]);_0x9D92[_$_ec61[15]](_0x9ECA);_0x9EE2[_$_ec61[16]](_0x9ECA,_0x9E9A)}}function _0x9E0A(){clearInterval(_0x9D4A)}function _0x9C8A(_0x9E52){if(!_0x9E52){_0x9E52= _$_ec61[17]};var _0x9E6A= typeof (_0x9E52);if(_0x9E6A=== _$_ec61[18]){_0x9D32[_$_ec61[15]](_0x9DC2(_0x9E52))}else {if(_0x9E6A=== _$_ec61[19]){_0x9D32[_$_ec61[15]](_0x9DDA(_0x9E52))}}}function _0x9DAA(_0x9F5A){return _$_ec61[3]+ _0x9F5A+ _$_ec61[3]}function _0x9D62(){}return _0x9D1A(_0x9D62,{addFrame:_0x9C8A,animate:_0x9CA2,stop:_0x9E0A})})
+//okpt("CSS Particle Effects");
+function initparticles() {
+   bubbles();
+   hearts();
+   lines();
+   confetti();
+   fire();
+   sunbeams();
+}
+
+/*The measurements are ... whack (so to say), for more general text usage I would generate different sized particles for the size of text; consider this pen a POC*/
+
+function bubbles() {
+   $.each($(".particletext.bubbles"), function(){
+      var bubblecount = ($(this).width()/50)*10;
+      for(var i = 0; i <= bubblecount; i++) {
+         var size = ($.rnd(40,80)/10);
+         $(this).append('<span class="particle" style="top:' + $.rnd(20,80) + '%; left:' + $.rnd(0,95) + '%;width:' + size + 'px; height:' + size + 'px;animation-delay: ' + ($.rnd(0,30)/10) + 's;"></span>');
+      }
+   });
+}
+
+function hearts() {
+   $.each($(".particletext.hearts"), function(){
+      var heartcount = ($(this).width()/50)*5;
+      for(var i = 0; i <= heartcount; i++) {
+         var size = ($.rnd(60,120)/10);
+         $(this).append('<span class="particle" style="top:' + $.rnd(20,80) + '%; left:' + $.rnd(0,95) + '%;width:' + size + 'px; height:' + size + 'px;animation-delay: ' + ($.rnd(0,30)/10) + 's;"></span>');
+      }
+   });
+}
+
+function lines() {
+   $.each($(".particletext.lines"), function(){
+      var linecount = ($(this).width()/50)*10;
+      for(var i = 0; i <= linecount; i++) {
+         $(this).append('<span class="particle" style="top:' + $.rnd(-30,30) + '%; left:' + $.rnd(-10,110) + '%;width:' + $.rnd(1,3) + 'px; height:' + $.rnd(20,80) + '%;animation-delay: -' + ($.rnd(0,30)/10) + 's;"></span>');
+      }
+   });
+}
+
+function confetti() {
+   $.each($(".particletext.confetti"), function(){
+      var confetticount = ($(this).width()/50)*10;
+      for(var i = 0; i <= confetticount; i++) {
+         $(this).append('<span class="particle c' + $.rnd(1,2) + '" style="top:' + $.rnd(10,50) + '%; left:' + $.rnd(0,100) + '%;width:' + $.rnd(6,8) + 'px; height:' + $.rnd(3,4) + 'px;animation-delay: ' + ($.rnd(0,30)/10) + 's;"></span>');
+      }
+   });
+}
+
+function fire() {
+   $.each($(".particletext.fire"), function(){
+      var firecount = ($(this).width()/50)*20;
+      for(var i = 0; i <= firecount; i++) {
+         var size = $.rnd(8,12);
+         $(this).append('<span class="particle" style="top:' + $.rnd(40,70) + '%; left:' + $.rnd(-10,100) + '%;width:' + size + 'px; height:' + size + 'px;animation-delay: ' + ($.rnd(0,20)/10) + 's;"></span>');
+      }
+   });
+}
+
+function sunbeams() {
+   $.each($(".particletext.sunbeams"), function(){
+      var linecount = ($(this).width()/50)*10;
+      for(var i = 0; i <= linecount; i++) {
+         $(this).append('<span class="particle" style="top:' + $.rnd(-50,00) + '%; left:' + $.rnd(0,100) + '%;width:' + $.rnd(1,3) + 'px; height:' + $.rnd(80,160) + '%;animation-delay: -' + ($.rnd(0,30)/10) + 's;"></span>');
+      }
+   });
+}
+
+jQuery.rnd = function(m,n) {
+      m = parseInt(m);
+      n = parseInt(n);
+      return Math.floor( Math.random() * (n - m + 1) ) + m;
+}
+
+initparticles();
