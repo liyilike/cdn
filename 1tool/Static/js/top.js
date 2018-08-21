@@ -1,2 +1,1 @@
-NProgress.start();
-NProgress.inc();
+var _$_a5bf=["\x73\x74\x61\x72\x74","\x69\x6E\x63"];NProgress[_$_a5bf[0]]();NProgress[_$_a5bf[1]]()

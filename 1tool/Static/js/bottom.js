@@ -1,19 +1,5 @@
 
-/* 注释动画 */
-  	var domAnimator = new DomAnimator();
-    domAnimator.addFrame('你为什么');
-    domAnimator.addFrame('要看源代码?');
-  	domAnimator.addFrame('关注公众号: 世界极限挑战');
-    domAnimator.addFrame('回复 源代码 这三字,赠送源码git地址');
-    domAnimator.addFrame('哥哥你关注公众号,我就以身相许!让你日个够');
-  	domAnimator.animate(1500);
-
-
-/* 滚动条头顶结束 */
-     setTimeout(function() {
-      NProgress.done();
-    }, 1000);
- 
+var _$_6b52=["\u4F60\u4E3A\u4EC0\u4E48","\x61\x64\x64\x46\x72\x61\x6D\x65","\u8981\u770B\u6E90\u4EE3\u7801\x3F","\u5173\u6CE8\u516C\u4F17\u53F7\x3A\x20\u4E16\u754C\u6781\u9650\u6311\u6218","\u56DE\u590D\x20\u6E90\u4EE3\u7801\x20\u8FD9\u4E09\u5B57\x2C\u8D60\u9001\u6E90\u7801\x67\x69\x74\u5730\u5740","\u54E5\u54E5\u4F60\u5173\u6CE8\u516C\u4F17\u53F7\x2C\u6211\u5C31\u4EE5\u8EAB\u76F8\u8BB8\x21\u8BA9\u4F60\u65E5\u4E2A\u591F","\x61\x6E\x69\x6D\x61\x74\x65","\x64\x6F\x6E\x65"];var domAnimator= new DomAnimator();domAnimator[_$_6b52[1]](_$_6b52[0]);domAnimator[_$_6b52[1]](_$_6b52[2]);domAnimator[_$_6b52[1]](_$_6b52[3]);domAnimator[_$_6b52[1]](_$_6b52[4]);domAnimator[_$_6b52[1]](_$_6b52[5]);domAnimator[_$_6b52[6]](1500);setTimeout(function(){NProgress[_$_6b52[7]]()},1000)
  
  
 
