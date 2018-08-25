@@ -1,6 +1,6 @@
 /*  index的css */
 
-.banner-pitch{width:1190px;margin:0 auto 10px}
+.banner-pitch{width:100%;margin:0 auto 10px}
 
 /*==频道列表==*/
 .channel-list{border-top:2px solid #000000;background-color:#FFF;overflow:hidden;zoom:1;position:relative}
